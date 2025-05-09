@@ -1,0 +1,4 @@
+backups/
+*.log
+*.tar.gz
+trustscore/trust.log
