@@ -1,4 +1,4 @@
-# Vo3lk3rOS
+# Vo3lk3r
 
 This repository contains the setup scripts for Vo3lk3rOS. The auto installer clones the repository and checks out a trusted commit to ensure a consistent installation.
 
